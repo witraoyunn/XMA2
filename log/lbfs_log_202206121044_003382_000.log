@@ -1,0 +1,14 @@
+2022-06-12 10:44:05.316 [3384] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2022-06-12 10:44:05.316 [3384] LOG_ALARM logger id=0 key=Main name=log path=../log/ level=1 display=true log4z.cpp:1933
+2022-06-12 10:44:05.316 [3384] LOG_ALARM logger id=1 key=ProcessData name=ProcessData path=../data/ProcessData/ level=0 display=false log4z.cpp:1933
+2022-06-12 10:44:05.316 [3384] LOG_ALARM logger id=2 key=StopData name=StopData path=../data/StopData/ level=0 display=false log4z.cpp:1933
+2022-06-12 10:44:05.316 [3384] LOG_ALARM logger id=3 key=TempData name=TempData path=../data/TempData/ level=0 display=false log4z.cpp:1933
+2022-06-12 10:44:05.367 [3382] LOG_INFO =============== BFG software version:12.0030.0010-0218 =============== main.cpp:167
+2022-06-12 10:44:07.484 [3399] LOG_DEBUG Master heartbeat starting...[10.168.202.20:5010] Cabinet.cpp:134
+2022-06-12 10:44:07.535 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 10:44:10.536 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 10:44:13.537 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 10:44:16.537 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 10:44:19.537 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 10:44:22.538 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 10:44:25.539 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172

@@ -1,0 +1,44 @@
+2022-06-12 20:09:35.042 [4390] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2022-06-12 20:09:35.042 [4390] LOG_ALARM logger id=0 key=Main name=log path=../log/ level=1 display=true log4z.cpp:1933
+2022-06-12 20:09:35.042 [4390] LOG_ALARM logger id=1 key=ProcessData name=ProcessData path=../data/ProcessData/ level=0 display=false log4z.cpp:1933
+2022-06-12 20:09:35.042 [4390] LOG_ALARM logger id=2 key=StopData name=StopData path=../data/StopData/ level=0 display=false log4z.cpp:1933
+2022-06-12 20:09:35.042 [4390] LOG_ALARM logger id=3 key=TempData name=TempData path=../data/TempData/ level=0 display=false log4z.cpp:1933
+2022-06-12 20:09:35.093 [4386] LOG_INFO =============== BFG software version:12.0030.0010-0218 =============== main.cpp:167
+2022-06-12 20:09:37.121 [4410] LOG_DEBUG Master heartbeat starting...[10.168.202.20:5010] Cabinet.cpp:134
+2022-06-12 20:09:37.172 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:09:38.831 [4396] LOG_DEBUG accept a new client, ip:192.168.85.1:56574 TcpServerMonitor.cpp:252
+2022-06-12 20:09:38.835 [4398] LOG_DEBUG Channel_Link: 17{"CabNo":5,"CellNo":1,"Channels":[13,14,15,16],"FuncCode":81,"Data":{"LinkState":1,"IP":"192.168.85.1"}} FormatConvert.cpp:912
+2022-06-12 20:09:40.676 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:09:44.177 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:09:46.238 [4398] LOG_DEBUG Channel_Link: 17{"CabNo":5,"CellNo":1,"Channels":[13,14,15,16],"FuncCode":81,"Data":{"LinkState":0,"IP":""}} FormatConvert.cpp:912
+2022-06-12 20:09:47.675 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:09:51.176 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:09:54.675 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:09:58.175 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:01.178 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:04.679 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:08.179 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:11.677 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:15.177 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:18.676 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:22.175 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:25.183 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:28.689 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:32.188 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:35.688 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:39.191 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:42.695 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:46.197 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:49.197 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:52.697 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:56.195 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:10:59.695 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:03.196 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:06.699 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:10.200 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:13.204 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:16.703 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:20.204 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:23.704 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:27.204 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 20:11:30.704 [4410] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172

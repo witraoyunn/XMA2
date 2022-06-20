@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zm/XMSrc/build/cmake/lib/libutility.a  CMakeFiles/utility.dir/utility.cpp.o CMakeFiles/utility.dir/SLMPDriver.cpp.o CMakeFiles/utility.dir/GNSocket.cpp.o CMakeFiles/utility.dir/CANSocketStack.cpp.o CMakeFiles/utility.dir/EpollMan.cpp.o CMakeFiles/utility.dir/TcpServerMonitor.cpp.o CMakeFiles/utility.dir/GNMessager.cpp.o CMakeFiles/utility.dir/log4z.cpp.o CMakeFiles/utility.dir/S7Client.cpp.o
+/usr/bin/ranlib /home/zm/XMSrc/build/cmake/lib/libutility.a

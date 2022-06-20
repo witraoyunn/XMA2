@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../cmake/lib/libsqlite.a  CMakeFiles/sqlite.dir/sqlite3.c.o CMakeFiles/sqlite.dir/cabinet_db.cpp.o CMakeFiles/sqlite.dir/shell.c.o
+/usr/bin/ranlib ../cmake/lib/libsqlite.a

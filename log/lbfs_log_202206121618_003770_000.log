@@ -1,0 +1,17 @@
+2022-06-12 16:18:47.526 [3773] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2022-06-12 16:18:47.526 [3773] LOG_ALARM logger id=0 key=Main name=log path=../log/ level=1 display=true log4z.cpp:1933
+2022-06-12 16:18:47.526 [3773] LOG_ALARM logger id=1 key=ProcessData name=ProcessData path=../data/ProcessData/ level=0 display=false log4z.cpp:1933
+2022-06-12 16:18:47.526 [3773] LOG_ALARM logger id=2 key=StopData name=StopData path=../data/StopData/ level=0 display=false log4z.cpp:1933
+2022-06-12 16:18:47.526 [3773] LOG_ALARM logger id=3 key=TempData name=TempData path=../data/TempData/ level=0 display=false log4z.cpp:1933
+2022-06-12 16:18:47.577 [3770] LOG_INFO =============== BFG software version:12.0030.0010-0218 =============== main.cpp:167
+2022-06-12 16:18:49.755 [3794] LOG_DEBUG Master heartbeat starting...[10.168.202.20:5010] Cabinet.cpp:134
+2022-06-12 16:18:49.806 [3794] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:18:51.407 [3779] LOG_DEBUG accept a new client, ip:192.168.8.143:62569 TcpServerMonitor.cpp:252
+2022-06-12 16:18:53.306 [3794] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:18:56.441 [3779] LOG_DEBUG accept a new client, ip:192.168.8.143:62572 TcpServerMonitor.cpp:252
+2022-06-12 16:18:56.807 [3794] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:18:57.937 [3779] LOG_DEBUG accept a new client, ip:192.168.8.143:62574 TcpServerMonitor.cpp:252
+2022-06-12 16:19:00.306 [3794] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:19:03.806 [3794] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:19:07.307 [3794] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:19:10.808 [3794] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172

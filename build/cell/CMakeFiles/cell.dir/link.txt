@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../cmake/lib/libcell.a  CMakeFiles/cell.dir/AuxVolAcq.cpp.o CMakeFiles/cell.dir/Cell.cpp.o CMakeFiles/cell.dir/AuxTempAcq.cpp.o
+/usr/bin/ranlib ../cmake/lib/libcell.a

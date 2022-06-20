@@ -1,0 +1,6 @@
+2022-06-06 18:49:57.171 [14558] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2022-06-06 18:49:57.172 [14558] LOG_ALARM logger id=0 key=Main name=log path=../log/ level=1 display=true log4z.cpp:1933
+2022-06-06 18:49:57.172 [14558] LOG_ALARM logger id=1 key=ProcessData name=ProcessData path=../data/ProcessData/ level=0 display=false log4z.cpp:1933
+2022-06-06 18:49:57.172 [14558] LOG_ALARM logger id=2 key=StopData name=StopData path=../data/StopData/ level=0 display=false log4z.cpp:1933
+2022-06-06 18:49:57.172 [14558] LOG_ALARM logger id=3 key=TempData name=TempData path=../data/TempData/ level=0 display=false log4z.cpp:1933
+2022-06-06 18:49:57.222 [14534] LOG_INFO =============== BFG software version:11.0030.0010-0218 =============== main.cpp:167

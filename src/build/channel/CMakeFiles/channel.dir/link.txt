@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zm/XMSrc/build/cmake/lib/libchannel.a  CMakeFiles/channel.dir/ChannelState.cpp.o CMakeFiles/channel.dir/Channel.cpp.o CMakeFiles/channel.dir/ChannelServer.cpp.o CMakeFiles/channel.dir/StepException.cpp.o CMakeFiles/channel.dir/GlobalException.cpp.o CMakeFiles/channel.dir/ChannelProto_JN9504.cpp.o CMakeFiles/channel.dir/ReplyHandler.cpp.o CMakeFiles/channel.dir/Serialize.cpp.o
+/usr/bin/ranlib /home/zm/XMSrc/build/cmake/lib/libchannel.a

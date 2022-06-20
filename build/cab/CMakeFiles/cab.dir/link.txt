@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../cmake/lib/libcab.a  CMakeFiles/cab.dir/XmlProcAPI.cpp.o CMakeFiles/cab.dir/Dispatcher.cpp.o CMakeFiles/cab.dir/CabinetMeter.cpp.o CMakeFiles/cab.dir/Cabinet.cpp.o
+/usr/bin/ranlib ../cmake/lib/libcab.a

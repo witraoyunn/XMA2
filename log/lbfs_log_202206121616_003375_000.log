@@ -1,0 +1,44 @@
+2022-06-12 16:16:21.855 [3379] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2022-06-12 16:16:21.855 [3379] LOG_ALARM logger id=0 key=Main name=log path=../log/ level=1 display=true log4z.cpp:1933
+2022-06-12 16:16:21.855 [3379] LOG_ALARM logger id=1 key=ProcessData name=ProcessData path=../data/ProcessData/ level=0 display=false log4z.cpp:1933
+2022-06-12 16:16:21.855 [3379] LOG_ALARM logger id=2 key=StopData name=StopData path=../data/StopData/ level=0 display=false log4z.cpp:1933
+2022-06-12 16:16:21.855 [3379] LOG_ALARM logger id=3 key=TempData name=TempData path=../data/TempData/ level=0 display=false log4z.cpp:1933
+2022-06-12 16:16:21.905 [3375] LOG_INFO =============== BFG software version:12.0030.0010-0218 =============== main.cpp:167
+2022-06-12 16:16:23.970 [3399] LOG_DEBUG Master heartbeat starting...[10.168.202.20:5010] Cabinet.cpp:134
+2022-06-12 16:16:24.022 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:27.523 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:31.022 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:34.524 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:38.023 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:41.522 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:45.023 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:48.522 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:52.022 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:55.523 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:16:59.027 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:02.527 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:06.027 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:09.527 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:13.026 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:16.526 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:20.026 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:23.527 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:25.284 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62460 TcpServerMonitor.cpp:252
+2022-06-12 16:17:27.027 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:29.245 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62480 TcpServerMonitor.cpp:252
+2022-06-12 16:17:29.840 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62481 TcpServerMonitor.cpp:252
+2022-06-12 16:17:30.225 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62483 TcpServerMonitor.cpp:252
+2022-06-12 16:17:30.401 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62484 TcpServerMonitor.cpp:252
+2022-06-12 16:17:30.530 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:30.594 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62485 TcpServerMonitor.cpp:252
+2022-06-12 16:17:30.786 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62486 TcpServerMonitor.cpp:252
+2022-06-12 16:17:31.428 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62487 TcpServerMonitor.cpp:252
+2022-06-12 16:17:31.617 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62488 TcpServerMonitor.cpp:252
+2022-06-12 16:17:31.824 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62489 TcpServerMonitor.cpp:252
+2022-06-12 16:17:32.015 [3385] LOG_DEBUG accept a new client, ip:192.168.8.143:62490 TcpServerMonitor.cpp:252
+2022-06-12 16:17:34.034 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:37.534 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:41.034 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:44.534 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:48.038 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172
+2022-06-12 16:17:51.538 [3399] LOG_DEBUG Master heartbeat connecting...[10.168.202.20:5010] Cabinet.cpp:172

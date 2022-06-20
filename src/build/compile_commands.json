@@ -1,0 +1,222 @@
+[
+{
+  "directory": "/home/zm/XMSrc/src/build",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/lbfs.dir/main.cpp.o -c /home/zm/XMSrc/src/main.cpp",
+  "file": "/home/zm/XMSrc/src/main.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/com",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/com.dir/MsgFactory.cpp.o -c /home/zm/XMSrc/src/com/MsgFactory.cpp",
+  "file": "/home/zm/XMSrc/src/com/MsgFactory.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/com",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/com.dir/Configuration.cpp.o -c /home/zm/XMSrc/src/com/Configuration.cpp",
+  "file": "/home/zm/XMSrc/src/com/Configuration.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/com",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/com.dir/FormatConvert.cpp.o -c /home/zm/XMSrc/src/com/FormatConvert.cpp",
+  "file": "/home/zm/XMSrc/src/com/FormatConvert.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/cab",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/cab.dir/XmlProcAPI.cpp.o -c /home/zm/XMSrc/src/cab/XmlProcAPI.cpp",
+  "file": "/home/zm/XMSrc/src/cab/XmlProcAPI.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/cab",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/cab.dir/Dispatcher.cpp.o -c /home/zm/XMSrc/src/cab/Dispatcher.cpp",
+  "file": "/home/zm/XMSrc/src/cab/Dispatcher.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/cab",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/cab.dir/CabinetMeter.cpp.o -c /home/zm/XMSrc/src/cab/CabinetMeter.cpp",
+  "file": "/home/zm/XMSrc/src/cab/CabinetMeter.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/cab",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/cab.dir/Cabinet.cpp.o -c /home/zm/XMSrc/src/cab/Cabinet.cpp",
+  "file": "/home/zm/XMSrc/src/cab/Cabinet.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/cell",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/cell.dir/AuxVolAcq.cpp.o -c /home/zm/XMSrc/src/cell/AuxVolAcq.cpp",
+  "file": "/home/zm/XMSrc/src/cell/AuxVolAcq.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/cell",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/cell.dir/Cell.cpp.o -c /home/zm/XMSrc/src/cell/Cell.cpp",
+  "file": "/home/zm/XMSrc/src/cell/Cell.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/cell",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/cell.dir/AuxTempAcq.cpp.o -c /home/zm/XMSrc/src/cell/AuxTempAcq.cpp",
+  "file": "/home/zm/XMSrc/src/cell/AuxTempAcq.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/ChannelState.cpp.o -c /home/zm/XMSrc/src/channel/ChannelState.cpp",
+  "file": "/home/zm/XMSrc/src/channel/ChannelState.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/Channel.cpp.o -c /home/zm/XMSrc/src/channel/Channel.cpp",
+  "file": "/home/zm/XMSrc/src/channel/Channel.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/ChannelServer.cpp.o -c /home/zm/XMSrc/src/channel/ChannelServer.cpp",
+  "file": "/home/zm/XMSrc/src/channel/ChannelServer.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/StepException.cpp.o -c /home/zm/XMSrc/src/channel/StepException.cpp",
+  "file": "/home/zm/XMSrc/src/channel/StepException.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/GlobalException.cpp.o -c /home/zm/XMSrc/src/channel/GlobalException.cpp",
+  "file": "/home/zm/XMSrc/src/channel/GlobalException.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/ChannelProto_JN9504.cpp.o -c /home/zm/XMSrc/src/channel/ChannelProto_JN9504.cpp",
+  "file": "/home/zm/XMSrc/src/channel/ChannelProto_JN9504.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/ReplyHandler.cpp.o -c /home/zm/XMSrc/src/channel/ReplyHandler.cpp",
+  "file": "/home/zm/XMSrc/src/channel/ReplyHandler.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/channel",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/channel.dir/Serialize.cpp.o -c /home/zm/XMSrc/src/channel/Serialize.cpp",
+  "file": "/home/zm/XMSrc/src/channel/Serialize.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/PressMachinePLC.cpp.o -c /home/zm/XMSrc/src/pins/PressMachinePLC.cpp",
+  "file": "/home/zm/XMSrc/src/pins/PressMachinePLC.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/PinsWorker.cpp.o -c /home/zm/XMSrc/src/pins/PinsWorker.cpp",
+  "file": "/home/zm/XMSrc/src/pins/PinsWorker.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/BatteryFormationPLC.cpp.o -c /home/zm/XMSrc/src/pins/BatteryFormationPLC.cpp",
+  "file": "/home/zm/XMSrc/src/pins/BatteryFormationPLC.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/ModbusTcpClient.cpp.o -c /home/zm/XMSrc/src/pins/ModbusTcpClient.cpp",
+  "file": "/home/zm/XMSrc/src/pins/ModbusTcpClient.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/BatteryGradingPLC.cpp.o -c /home/zm/XMSrc/src/pins/BatteryGradingPLC.cpp",
+  "file": "/home/zm/XMSrc/src/pins/BatteryGradingPLC.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/PinsGroup_AXM.cpp.o -c /home/zm/XMSrc/src/pins/PinsGroup_AXM.cpp",
+  "file": "/home/zm/XMSrc/src/pins/PinsGroup_AXM.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/WmsClient.cpp.o -c /home/zm/XMSrc/src/pins/WmsClient.cpp",
+  "file": "/home/zm/XMSrc/src/pins/WmsClient.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/PinsGroup.cpp.o -c /home/zm/XMSrc/src/pins/PinsGroup.cpp",
+  "file": "/home/zm/XMSrc/src/pins/PinsGroup.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/pins",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/pins.dir/PinsGroup_AXMPreCharge.cpp.o -c /home/zm/XMSrc/src/pins/PinsGroup_AXMPreCharge.cpp",
+  "file": "/home/zm/XMSrc/src/pins/PinsGroup_AXMPreCharge.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/dcir",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/dcir.dir/Scanner.cpp.o -c /home/zm/XMSrc/src/dcir/Scanner.cpp",
+  "file": "/home/zm/XMSrc/src/dcir/Scanner.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/dcir",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/dcir.dir/DCRWorker.cpp.o -c /home/zm/XMSrc/src/dcir/DCRWorker.cpp",
+  "file": "/home/zm/XMSrc/src/dcir/DCRWorker.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/dcir",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/dcir.dir/OmronFinsNet.cpp.o -c /home/zm/XMSrc/src/dcir/OmronFinsNet.cpp",
+  "file": "/home/zm/XMSrc/src/dcir/OmronFinsNet.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/dcir",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/dcir.dir/CipClient.cpp.o -c /home/zm/XMSrc/src/dcir/CipClient.cpp",
+  "file": "/home/zm/XMSrc/src/dcir/CipClient.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/utility.cpp.o -c /home/zm/XMSrc/src/utility/utility.cpp",
+  "file": "/home/zm/XMSrc/src/utility/utility.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/SLMPDriver.cpp.o -c /home/zm/XMSrc/src/utility/SLMPDriver.cpp",
+  "file": "/home/zm/XMSrc/src/utility/SLMPDriver.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/GNSocket.cpp.o -c /home/zm/XMSrc/src/utility/GNSocket.cpp",
+  "file": "/home/zm/XMSrc/src/utility/GNSocket.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/CANSocketStack.cpp.o -c /home/zm/XMSrc/src/utility/CANSocketStack.cpp",
+  "file": "/home/zm/XMSrc/src/utility/CANSocketStack.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/EpollMan.cpp.o -c /home/zm/XMSrc/src/utility/EpollMan.cpp",
+  "file": "/home/zm/XMSrc/src/utility/EpollMan.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/TcpServerMonitor.cpp.o -c /home/zm/XMSrc/src/utility/TcpServerMonitor.cpp",
+  "file": "/home/zm/XMSrc/src/utility/TcpServerMonitor.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/GNMessager.cpp.o -c /home/zm/XMSrc/src/utility/GNMessager.cpp",
+  "file": "/home/zm/XMSrc/src/utility/GNMessager.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/log4z.cpp.o -c /home/zm/XMSrc/src/utility/log4z.cpp",
+  "file": "/home/zm/XMSrc/src/utility/log4z.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/utility",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/utility.dir/S7Client.cpp.o -c /home/zm/XMSrc/src/utility/S7Client.cpp",
+  "file": "/home/zm/XMSrc/src/utility/S7Client.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/sqlite",
+  "command": "/usr/bin/gcc-4.8  -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -g   -o CMakeFiles/sqlite.dir/sqlite3.c.o   -c /home/zm/XMSrc/src/sqlite/sqlite3.c",
+  "file": "/home/zm/XMSrc/src/sqlite/sqlite3.c"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/sqlite",
+  "command": "g++-4.8   -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -Wall -std=c++11 -pthread -fpermissive -fno-rtti -O2 -g -Wall -std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0 -pthread -fpermissive -fno-rtti -O0 -g   -o CMakeFiles/sqlite.dir/cabinet_db.cpp.o -c /home/zm/XMSrc/src/sqlite/cabinet_db.cpp",
+  "file": "/home/zm/XMSrc/src/sqlite/cabinet_db.cpp"
+},
+{
+  "directory": "/home/zm/XMSrc/src/build/sqlite",
+  "command": "/usr/bin/gcc-4.8  -DAUX_TEMPERATURE_ACQ -DAXM_GRADING_SYS -DENABLE_PLC -DOFFLINE_PROTECTION -DPROTOCOL_5V160A -DSTOREDATA -I/home/zm/XMSrc/src/../3rd/include -I/home/zm/XMSrc/src/../3rd/include/zmq -I/home/zm/XMSrc/src/./com -I/home/zm/XMSrc/src/./utility -I/home/zm/XMSrc/src/./cab -I/home/zm/XMSrc/src/./cell -I/home/zm/XMSrc/src/./channel -I/home/zm/XMSrc/src/./pins -I/home/zm/XMSrc/src/./dcir -I/home/zm/XMSrc/src/./sqlite  -g   -o CMakeFiles/sqlite.dir/shell.c.o   -c /home/zm/XMSrc/src/sqlite/shell.c",
+  "file": "/home/zm/XMSrc/src/sqlite/shell.c"
+}
+]

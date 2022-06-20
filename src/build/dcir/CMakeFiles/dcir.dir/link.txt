@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zm/XMSrc/build/cmake/lib/libdcir.a  CMakeFiles/dcir.dir/Scanner.cpp.o CMakeFiles/dcir.dir/DCRWorker.cpp.o CMakeFiles/dcir.dir/OmronFinsNet.cpp.o CMakeFiles/dcir.dir/CipClient.cpp.o
+/usr/bin/ranlib /home/zm/XMSrc/build/cmake/lib/libdcir.a
